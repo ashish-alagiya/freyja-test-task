@@ -1,0 +1,1 @@
+// You can add functions which you want to use anywhere.
